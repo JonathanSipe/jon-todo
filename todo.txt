@@ -1,0 +1,31 @@
+Install VS Code
+
+Install pyenv 
+    pyenv install 3.7.3
+    pyenv global 3.7.3  
+
+
+Install git 
+
+Sign up for GitHub 
+
+-----
+
+Install windows launcher
+
+
+Open / closes / switch windows keyboard only
+
+Open terminal
+
+Bash for windows
+	Cygwin
+	wsl 2
+	
+
+
+Install autojump
+
+Tab completion
+
+	
