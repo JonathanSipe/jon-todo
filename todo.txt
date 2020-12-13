@@ -9,7 +9,9 @@ Install git
 
 Sign up for GitHub 
 
------
+-----  VV extra credit ------
+
+(ken was here)
 
 Install windows launcher
 
@@ -27,3 +29,5 @@ Bash for windows
 Install autojump
 
 Tab completion
+
+	
