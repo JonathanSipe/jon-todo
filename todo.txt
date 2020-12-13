@@ -27,5 +27,3 @@ Bash for windows
 Install autojump
 
 Tab completion
-
-	
